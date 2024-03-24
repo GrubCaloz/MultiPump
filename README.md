@@ -1,6 +1,8 @@
-Maquette de simulation pour une isntallation de pompage
+Maquette de simulation pour une installation de pompage
 
 Formation des automaticiens
+
+Code pas optimisé
 
 
 
