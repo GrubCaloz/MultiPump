@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "MultiPump",
+			"path": "."
+		},
+		{
+			"name": "MecaTank",
+			"path": "../MecaTank"
+		},
+		{
+			"name": "RM501",
+			"path": "../RM501"
+		},
+		{
+			"name": "RM501-2",
+			"path": "../RM501-2"
+		},
+		{
+			"name": "RM501 Robot",
+			"path": "../RM501 Robot"
+		},
+		{
+			"name": "roboclawtest",
+			"path": "../roboclawtest"
+		}
+	],
+	"settings": {}
+}
